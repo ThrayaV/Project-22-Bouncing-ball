@@ -51,7 +51,7 @@ function setup(){
 
     // Code for ball
     var ball_options ={
-        // isStatic : false,
+        isStatic : false,
         // isStatic: false
         // isStatic = false,
         // isStatic : true,
